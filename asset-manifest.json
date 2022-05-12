@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1b5efbf3.chunk.css",
-    "main.js": "/static/js/main.b4440562.chunk.js",
-    "main.js.map": "/static/js/main.b4440562.chunk.js.map",
+    "main.js": "/static/js/main.79198ce1.chunk.js",
+    "main.js.map": "/static/js/main.79198ce1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3f5e62d1.js",
     "runtime-main.js.map": "/static/js/runtime-main.3f5e62d1.js.map",
     "static/css/2.07e5ee60.chunk.css": "/static/css/2.07e5ee60.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.07e5ee60.chunk.css.map": "/static/css/2.07e5ee60.chunk.css.map",
     "static/css/main.1b5efbf3.chunk.css.map": "/static/css/main.1b5efbf3.chunk.css.map",
     "static/js/2.6693f990.chunk.js.LICENSE.txt": "/static/js/2.6693f990.chunk.js.LICENSE.txt",
+    "static/media/--_W4aPN_400x400.5235cc74.jpg": "/static/media/--_W4aPN_400x400.5235cc74.jpg",
     "static/media/Banting1.deb35607.png": "/static/media/Banting1.deb35607.png",
     "static/media/Biking.346b5c6c.gif": "/static/media/Biking.346b5c6c.gif",
     "static/media/Climbing.67074270.jpg": "/static/media/Climbing.67074270.jpg",
@@ -38,6 +39,6 @@
     "static/css/2.07e5ee60.chunk.css",
     "static/js/2.6693f990.chunk.js",
     "static/css/main.1b5efbf3.chunk.css",
-    "static/js/main.b4440562.chunk.js"
+    "static/js/main.79198ce1.chunk.js"
   ]
 }
